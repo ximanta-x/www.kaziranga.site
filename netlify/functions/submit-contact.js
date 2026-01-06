@@ -20,7 +20,7 @@ exports.handler = async function(event, context) {
         }
         
         const message = `
-New Contact Form Submission:
+Kaziranga.site info message 📶:
 
 Name: ${data.name}
 Email: ${data.email}
